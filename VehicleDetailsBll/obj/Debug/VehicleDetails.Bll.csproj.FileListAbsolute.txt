@@ -1,0 +1,8 @@
+C:\Users\SIRISHCHANDRA\source\repos\VehicleDetails\VehicleDetailsBll\obj\Debug\VehicleDetails.Bll.csprojResolveAssemblyReference.cache
+C:\Users\SIRISHCHANDRA\source\repos\VehicleDetails\VehicleDetailsBll\obj\Debug\VehicleDetails.Bll.csproj.CoreCompileInputs.cache
+C:\Users\SIRISHCHANDRA\source\repos\VehicleDetails\VehicleDetailsBll\bin\Debug\VehicleDetails.Bll.dll
+C:\Users\SIRISHCHANDRA\source\repos\VehicleDetails\VehicleDetailsBll\bin\Debug\VehicleDetails.Bll.pdb
+C:\Users\SIRISHCHANDRA\source\repos\VehicleDetails\VehicleDetailsBll\bin\Debug\VehicleDetails.Dal.dll
+C:\Users\SIRISHCHANDRA\source\repos\VehicleDetails\VehicleDetailsBll\bin\Debug\VehicleDetails.Dal.pdb
+C:\Users\SIRISHCHANDRA\source\repos\VehicleDetails\VehicleDetailsBll\obj\Debug\VehicleDetails.Bll.dll
+C:\Users\SIRISHCHANDRA\source\repos\VehicleDetails\VehicleDetailsBll\obj\Debug\VehicleDetails.Bll.pdb

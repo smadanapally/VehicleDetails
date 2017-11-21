@@ -1,0 +1,8 @@
+C:\Users\SIRISHCHANDRA\source\repos\VehicleDetails\VehicleDetailsDAO\bin\Debug\VehicleDetails.Dal.dll
+C:\Users\SIRISHCHANDRA\source\repos\VehicleDetails\VehicleDetailsDAO\bin\Debug\VehicleDetails.Dal.pdb
+C:\Users\SIRISHCHANDRA\source\repos\VehicleDetails\VehicleDetailsDAO\obj\Debug\VehicleDetails.Dal.csproj.CoreCompileInputs.cache
+C:\Users\SIRISHCHANDRA\source\repos\VehicleDetails\VehicleDetailsDAO\obj\Debug\VehicleDetails.Dal.dll
+C:\Users\SIRISHCHANDRA\source\repos\VehicleDetails\VehicleDetailsDAO\obj\Debug\VehicleDetails.Dal.pdb
+C:\Users\SIRISHCHANDRA\source\repos\VehicleDetails\VehicleDetailsDAO\obj\Debug\VehicleDetails.Dal.csprojResolveAssemblyReference.cache
+C:\Users\SIRISHCHANDRA\source\repos\VehicleDetails\VehicleDetailsDAO\bin\Debug\nunit.framework.dll
+C:\Users\SIRISHCHANDRA\source\repos\VehicleDetails\VehicleDetailsDAO\bin\Debug\nunit.framework.xml
